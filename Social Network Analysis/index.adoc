@@ -1,0 +1,8 @@
+= Author: Francisco Medel Molinero 
+
+Description of the script: This script creates a graph based on a csv file and 
+gives us information like general statistics, communities, centralities, and 
+different ways to visualize the data.
+Input of the function: data in csv format
+Output of the function: (centralities.png, communities.png, components.png)<-based on the subgraph, (Graph.gexf and Subgraph.gexf)<-gexf.zip
+IMPROVEMENTS FOR THE FUTURE: extract the closeness and betweeness centrality of the graph and plot the eigenvector centrality of the subgraph 

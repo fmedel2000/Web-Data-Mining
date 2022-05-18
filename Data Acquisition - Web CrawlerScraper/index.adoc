@@ -1,0 +1,1 @@
+= HW1 - I attach the practice report in this folder, inside the src folder you can find the script programmed in python("crawlerFranciscoMedel") with which it has been possible to extract the information in .json format that appears in the results folder("data.json").

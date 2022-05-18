@@ -1,0 +1,6 @@
+= Francisco Medel Molinero
+
+Description of the script: Data Representation for each document and query using the Vector Space Model with binary, Term Frequency and TF-IDF representation and computing relevance scores for each combination of query, document using Euclidean distance and Cosine similarity measure.
+Making an evaluation of the quality and difference of both scores and different weighting schemas, compute Precision, Recall, F-measure.
+Input of the function: cranfield folder with data in csv format
+Output of the function: output.csv

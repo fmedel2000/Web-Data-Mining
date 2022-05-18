@@ -1,0 +1,56 @@
+frozenset({'Bulgaria'}) - 0.02999117906498089
+frozenset({'challenging expedition'}) - 0.02837400764481035
+frozenset({'Tourist'}) - 0.023375477800646867
+frozenset({'Aeolian Islands'}) - 0.019847103793002058
+frozenset({'hiking'}) - 0.037930020582181714
+frozenset({'Neni'}) - 0.031167303734195826
+frozenset({'Lastminute'}) - 0.04116436342252279
+frozenset({'rafting'}) - 0.02469861805351367
+frozenset({'cyclo'}) - 0.043222581593648925
+frozenset({'Holiday Shipping'}) - 0.0111731843575419
+frozenset({'Far tours'}) - 0.028668038812114084
+frozenset({'Corsica'}) - 0.056159952955013234
+frozenset({'stays'}) - 0.015436636283446045
+frozenset({'CATALOG'}) - 0.018965010291090857
+frozenset({'Alps'}) - 0.017347838870920316
+frozenset({'In general'}) - 0.2221405468979712
+frozenset({'Tours with lightweight tourism'}) - 0.024551602469861804
+frozenset({'exotica'}) - 0.0683622463981182
+frozenset({'climbing school'}) - 0.019112025874742724
+frozenset({'cycling abroad'}) - 0.017347838870920316
+frozenset({'tours and holiday comes into hotel'}) - 0.025286680388121142
+frozenset({'Montenegro'}) - 0.023669508967950604
+frozenset({'mountain expedition'}) - 0.01675977653631285
+frozenset({'Tours with accommodation'}) - 0.07747721258453397
+frozenset({'Water'}) - 0.010732137606586298
+frozenset({'lastminute'}) - 0.04116436342252279
+frozenset({'light hiking'}) - 0.02381652455160247
+frozenset({'Tourism'}) - 0.09320788003528374
+frozenset({'VHT'}) - 0.028226992061158484
+frozenset({'stays with trips'}) - 0.012202293443104969
+frozenset({'tours with tents'}) - 0.03748897383122611
+frozenset({'Hiking'}) - 0.08321082034695677
+frozenset({'Stays with trips'}) - 0.02587474272272861
+frozenset({'Corsica (stay with excursions) holidays 05'}) - 0.01323140252866804
+frozenset({'expedition'}) - 0.020729197294913262
+frozenset({'Ski'}) - 0.015730667450749778
+frozenset({'TravelAgency'}) - 0.14113496030579242
+frozenset({'hotelbuses'}) - 0.03087327256689209
+frozenset({'sightseeing tours'}) - 0.023375477800646867
+frozenset({'Lipari'}) - 0.028226992061158484
+frozenset({'tours with tents', 'Tourism'}) - 0.03748897383122611
+frozenset({'light hiking', 'Neni'}) - 0.02381652455160247
+frozenset({'Tours with accommodation', 'sightseeing tours'}) - 0.023375477800646867
+frozenset({'Lastminute', 'lastminute'}) - 0.04116436342252279
+frozenset({'mountain expedition', 'VHT'}) - 0.01675977653631285
+frozenset({'cyclo', 'cycling abroad'}) - 0.017347838870920316
+frozenset({'tours and holiday comes into hotel', 'In general'}) - 0.025286680388121142
+frozenset({'Lipari', 'Aeolian Islands'}) - 0.016906792119964716
+frozenset({'stays with trips', 'Stays with trips'}) - 0.012202293443104969
+frozenset({'hiking', 'Hiking'}) - 0.037930020582181714
+frozenset({'TravelAgency', 'In general'}) - 0.14113496030579242
+frozenset({'In general', 'CATALOG'}) - 0.018965010291090857
+frozenset({'Corsica', 'Corsica (stay with excursions) holidays 05'}) - 0.01323140252866804
+frozenset({'exotica', 'Far tours'}) - 0.028668038812114084
+frozenset({'expedition', 'challenging expedition'}) - 0.020729197294913262
+frozenset({'stays', 'Tourist'}) - 0.015436636283446045

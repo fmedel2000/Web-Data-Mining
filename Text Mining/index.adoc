@@ -1,0 +1,1 @@
+= HW2 - I attach the practice report in this folder, inside the src folder you can find the script programmed in python("textProcessor.py")  used to generate the files .json ubicated in the folder"results", in the folder src, you can see another file called"sentencesCounter.py" that I made to count how many sentences some document has. 

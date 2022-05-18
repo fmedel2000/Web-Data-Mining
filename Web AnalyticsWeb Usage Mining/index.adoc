@@ -1,0 +1,7 @@
+= Author: Francisco Medel Molinero
+
+Description of the script: Design a suitable data representation for the analysis - association rule mining, removing short and long visits, identifying main and micro conversions and extracting the principal statistics
+
+Input of the function: data in csv format
+
+Output of the function: processed_data.csv, statistics.csv, results.csv
